@@ -34,15 +34,15 @@ const Menu: React.FC = () => {
           className="block transition-transform hover:scale-105 duration-300"
         >
           {/* Using a placeholder for the logo - the user provided image would typically be base64 or a hosted URL */}
-          <div className="flex items-center gap-3 bg-white/80 backdrop-blur-sm p-2 px-4 rounded-full shadow-sm">
+          <div className="flex items-center">
             <img 
-              src="https://raw.githubusercontent.com/lucide-react/lucide/main/icons/layout-grid.svg" 
-              alt="Logo Studio Perret" 
-              className="h-8 w-auto object-contain text-[#766c66]" 
+              src="assets/img/logo-studio-perret.png" 
+              alt="Studio Perret Arquitetura" 
+              className="h-[120px] w-auto object-contain" 
             />
-            <div className="hidden sm:block">
+            {/* <div className="hidden sm:block">
               <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-[#766c66]">Studio Perret</span>
-            </div>
+            </div> */}
           </div>
         </a>
       </div>

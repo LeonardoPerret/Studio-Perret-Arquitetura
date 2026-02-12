@@ -34,7 +34,7 @@ const Home: React.FC = () => {
       {/* Blog Section */}
       <section className="py-24 bg-[#f9f9f9]">
         <div className="container mx-auto px-6">
-          <div className="flex flex-col md:flex-row justify-between items-end mb-16">
+          <div  className="text-center mb-16">
             <div>
               <h2 className="text-sm uppercase tracking-[0.4em] text-gray-400 mb-4">Diário do Studio</h2>
               <h3 className="text-4xl font-semibold text-[#766c66]">Blog & Inspirações</h3>

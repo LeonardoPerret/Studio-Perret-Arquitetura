@@ -3,7 +3,7 @@ import React from 'react';
 
 const Sobre: React.FC = () => {
   return (
-    <main className="pt-[88px] pb-24">
+    <main className="pt-[0px] pb-24">
       {/* Imagem de Destaque - Full Width Monitor */}
       <section className="relative w-full h-[800px] overflow-hidden">
         <img 

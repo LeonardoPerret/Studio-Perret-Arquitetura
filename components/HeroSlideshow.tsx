@@ -2,10 +2,10 @@
 import React, { useState, useEffect } from 'react';
 
 const images = [
-  'https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&q=80&w=1920',
-  'https://images.unsplash.com/photo-1600566753190-17f0bbc2a6c3?auto=format&fit=crop&q=80&w=1920',
-  'https://images.unsplash.com/photo-1600573472591-ee6b68d14c68?auto=format&fit=crop&q=80&w=1920',
-  'https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&q=80&w=1920'
+  'https://studioperretarq.com/pt-br/img/slide1.jpg?auto=format&fit=crop&q=80&w=1920',
+  'https://studioperretarq.com/pt-br/img/slide2.jpg?auto=format&fit=crop&q=80&w=1920',
+  'https://studioperretarq.com/pt-br/img/slide3.jpg?auto=format&fit=crop&q=80&w=1920',
+  'https://studioperretarq.com/pt-br/img/slide4.jpg?auto=format&fit=crop&q=80&w=1920'
 ];
 
 const HeroSlideshow: React.FC = () => {

@@ -64,26 +64,26 @@ export const MOCK_PROJECTS: Project[] = [
 export const MOCK_BLOG: BlogPost[] = [
   {
     id: '1',
-    title: 'Tendências de Cores 2024',
+    title: 'Tendências de Cores 2026',
     description: 'Descubra como aplicar as cores do ano no seu projeto de interiores.',
-    image: 'https://images.unsplash.com/photo-1513519247388-446b77c380c7?auto=format&fit=crop&q=80&w=800'
+    image: 'https://studioperretarq.com/pt-br/img/blog1.jpg?auto=format&fit=crop&q=80&w=800'
   },
   {
     id: '2',
     title: 'Sustentabilidade na Obra',
     description: 'Dicas práticas para reduzir o desperdício durante a construção.',
-    image: 'https://images.unsplash.com/photo-1518005020411-380d145f8674?auto=format&fit=crop&q=80&w=800'
+    image: 'https://studioperretarq.com/pt-br/img/blog2.jpg?auto=format&fit=crop&q=80&w=800'
   },
   {
     id: '3',
     title: 'Iluminação Natural',
     description: 'A importância de janelas estratégicas para o bem-estar dos moradores.',
-    image: 'https://images.unsplash.com/photo-1505691938895-1758d7eaa511?auto=format&fit=crop&q=80&w=800'
+    image: 'https://studioperretarq.com/pt-br/img/blog3.jpg?auto=format&fit=crop&q=80&w=800'
   },
   {
     id: '4',
     title: 'Reforma sem Stress',
     description: 'Como planejar seu cronograma para evitar surpresas desagradáveis.',
-    image: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80&w=800'
+    image: 'https://studioperretarq.com/pt-br/img/blog4.jpg?auto=format&fit=crop&q=80&w=800'
   }
 ];
